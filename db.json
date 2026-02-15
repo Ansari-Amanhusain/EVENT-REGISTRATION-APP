@@ -1,0 +1,20 @@
+{
+  "registrations": [
+    {
+      "id": "62f3",
+      "name": "Amanhusain Ansari",
+      "email": "ansariaman19487@gmail.com",
+      "phone": "6354701169",
+      "session": "React",
+      "type": "Online"
+    },
+    {
+      "id": "d264",
+      "name": "Sagar",
+      "email": "ansariaman19487@gmail.com",
+      "phone": "6354701169",
+      "session": "Redux",
+      "type": "Offline"
+    }
+  ]
+}
